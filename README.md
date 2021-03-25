@@ -6,3 +6,4 @@
 ##### 使用方法：  
 预训练模型使用的是中文**BERT-WWM**, 下载地址(https://github.com/ymcui/Chinese-BERT-wwm), 下载解压后放入[**bert_pretrain**]文件夹下，运行“python main.py”即可  
 ##### 训练结果：  
+!(https://github.com/guang11644331/NLP_CHN_down_stream_task/blob/master/image/bert_res.png)
