@@ -11,7 +11,7 @@
 预训练模型使用的是中文**BERT-WWM**, 下载地址(https://github.com/ymcui/Chinese-BERT-wwm), 下载解压后放入[**bert_pretrain**]文件夹下，运行“main.py”即可  
 #### (4).训练结果：    
   
-![](https://github.com/guang11644331/NLP_CHN_down_stream_task/blob/master/image/bert_res.png)  
+![](https://github.com/guang11644331/NLP_Chinese_down_stream_task/blob/master/image/bert_res2.png)  
   
 ___
 ### 任务2：命名体识别(NER)  
