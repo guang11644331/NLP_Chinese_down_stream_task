@@ -9,5 +9,7 @@
 ![](https://github.com/guang11644331/NLP_CHN_down_stream_task/blob/master/image/bert_res.png)  
   
 ### 任务2：命名体识别(NER: BiLSTM+CRF)
-数据集：china-people-daily-ner-corpus（中国人民日报数据集）  
-![](https://github.com/guang11644331/NLP_CHN_down_stream_task/blob/master/image/ner_data.png)
+数据集：china-people-daily-ner-corpus（中国人民日报数据集）, Tensorflow_cpu >= 2.1
+![](https://github.com/guang11644331/NLP_CHN_down_stream_task/blob/master/image/ner_data.png)  
+输入时使用了中文Wikipedia训练好的100维词向量，运行main.py即可。  
+#### 训练结果：  
