@@ -6,7 +6,7 @@ NLP子任务，供学习参考
   
 ![](https://github.com/guang11644331/NLP_Chinese_down_stream_task/blob/master/image/cls_data.png)  
 
-#### (2).模型：BERT+BiLSTM，Pytorch实现  
+#### (2).模型：BERT+FC，Pytorch实现  
 #### (3).使用方法：    
 预训练模型使用的是中文**BERT-WWM**, 下载地址(https://github.com/ymcui/Chinese-BERT-wwm), 下载解压后放入[**bert_pretrain**]文件夹下，运行“main.py”即可  
 #### (4).训练结果：    
