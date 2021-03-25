@@ -18,7 +18,7 @@
 #### 训练结果:  
   
   ![](https://github.com/guang11644331/NLP_CHN_down_stream_task/blob/master/image/ner_1.png)  
-#### Confusion Matrix:  
+#### **Confusion Matrix**:  
   
 ![](https://github.com/guang11644331/NLP_CHN_down_stream_task/blob/master/image/ner_2.png)  
   
