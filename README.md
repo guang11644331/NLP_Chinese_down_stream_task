@@ -27,7 +27,7 @@ ___
 #### (3).训练结果:  
   
   ![](https://github.com/guang11644331/NLP_CHN_down_stream_task/blob/master/image/ner_1.png)  
-#### (4).混淆矩阵结果(Confusion Matrix):  
+#### (4).F1-Score结果:  
   
 ![](https://github.com/guang11644331/NLP_CHN_down_stream_task/blob/master/image/ner_2.png)  
   
