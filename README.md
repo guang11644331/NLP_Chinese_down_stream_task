@@ -33,4 +33,16 @@ ___
   
 ___  
 ### 任务3：文本匹配（语义相似度，Semantic Textual Similarity）  
-**TODO**
+#### (1).数据集：fake-news-pair-classification-challenge(kaggle虚假新闻标题分类竞赛，标签有三种关系：'unrelated', 'agreed', 'disagreed')  
+  
+![](https://github.com/guang11644331/NLP_Chinese_down_stream_task/blob/master/image/semantic_data.png)  
+
+#### (2).模型：Siamese LSTM + 任意文本相似度匹配方法，Tensorflow_cpu >= 2.1  
+#### (3).使用方法：    
+直接运行“main.py”即可  
+#### (4).训练结果：  
+  
+![](https://github.com/guang11644331/NLP_Chinese_down_stream_task/blob/master/image/semantic_res.png)  
+  
+___
+### Reference:
